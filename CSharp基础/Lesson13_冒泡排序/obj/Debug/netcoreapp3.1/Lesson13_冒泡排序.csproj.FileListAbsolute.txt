@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.exe
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.deps.json
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.runtimeconfig.json
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.dll
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\bin\Debug\netcoreapp3.1\Lesson13_冒泡排序.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.csproj.AssemblyReference.cache
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.dll
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson13_冒泡排序\obj\Debug\netcoreapp3.1\Lesson13_冒泡排序.genruntimeconfig.cache

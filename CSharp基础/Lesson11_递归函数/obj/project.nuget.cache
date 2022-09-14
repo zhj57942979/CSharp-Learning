@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mhY5pEC904/i14mv9NFauAhhR+1Kd9b0ohp3d3FWaNgDIKm34+5WZ1+RMJG5MdOsa/6DT1lJi+ytK4sj5daM5g==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp基础\\Lesson11_递归函数\\Lesson11_递归函数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

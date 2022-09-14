@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson9_变长参数和参数默认值/1.0.0": {
+        "runtime": {
+          "Lesson9_变长参数和参数默认值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson9_变长参数和参数默认值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

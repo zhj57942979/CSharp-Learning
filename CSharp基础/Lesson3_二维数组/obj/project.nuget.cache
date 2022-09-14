@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5sdyKSu7ueSyDq0y/fO41DNspnqL6Uxl133QSx94bgmNv0E8mSkC5rb9M+eZw2MvrYNVjRVyCYkNbNutuvRxkQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp基础\\Lesson3_二维数组\\Lesson3_二维数组.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

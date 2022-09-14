@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hUFikF8NcY0rcv4zUuEYkeDr0QjU4cqCtLTjs2Q54vbu+cVCjIkz4aGatFH+HvkEXP9olmlVai7djV4jTGasQA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp基础\\Lesson12_结构体\\Lesson12_结构体.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

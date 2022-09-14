@@ -1,0 +1,14 @@
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.exe
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.deps.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.runtimeconfig.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.runtimeconfig.dev.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.dll
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\bin\Debug\netcoreapp3.1\Lesson1_枚举.pdb
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.csproj.AssemblyReference.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.AssemblyInfoInputs.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.AssemblyInfo.cs
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.csproj.CoreCompileInputs.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.dll
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.pdb
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举\obj\Debug\netcoreapp3.1\Lesson1_枚举.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.csproj.AssemblyReference.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.AssemblyInfoInputs.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.AssemblyInfo.cs
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.csproj.CoreCompileInputs.cache
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.exe
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.deps.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.runtimeconfig.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.runtimeconfig.dev.json
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.dll
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\bin\Debug\netcoreapp3.1\Lesson1_枚举练习题.pdb
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.dll
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.pdb
+C:\Users\AS\source\repos\CSharp基础\Lesson1_枚举练习题\obj\Debug\netcoreapp3.1\Lesson1_枚举练习题.genruntimeconfig.cache

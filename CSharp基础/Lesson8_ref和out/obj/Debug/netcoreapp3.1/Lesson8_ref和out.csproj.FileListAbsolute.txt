@@ -1,0 +1,13 @@
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.exe
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.deps.json
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.runtimeconfig.json
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.dll
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\bin\Debug\netcoreapp3.1\Lesson8_ref和out.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.dll
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson8_ref和out\obj\Debug\netcoreapp3.1\Lesson8_ref和out.genruntimeconfig.cache

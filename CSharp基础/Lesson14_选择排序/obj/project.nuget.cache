@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KKpFOM0V4F8pZ2JpnUW0dKRr0f4XecVpxEVrA7tuW0tQfbEUTuYX93WAkl1gU4pHtDN/faG39Ry1WcjdU+YLvQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp基础\\Lesson14_选择排序\\Lesson14_选择排序.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

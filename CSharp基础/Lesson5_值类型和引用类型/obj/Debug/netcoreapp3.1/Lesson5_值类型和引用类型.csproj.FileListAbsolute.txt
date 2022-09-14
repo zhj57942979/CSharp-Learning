@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.exe
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.deps.json
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.runtimeconfig.json
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.dll
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\bin\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.dll
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.pdb
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.genruntimeconfig.cache
+E:\unity项目\C#学习\CSharp基础\Lesson5_值类型和引用类型\obj\Debug\netcoreapp3.1\Lesson5_值类型和引用类型.csproj.AssemblyReference.cache
