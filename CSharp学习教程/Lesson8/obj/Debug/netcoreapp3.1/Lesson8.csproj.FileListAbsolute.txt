@@ -1,0 +1,13 @@
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.exe
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.deps.json
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.runtimeconfig.json
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.dll
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\bin\Debug\netcoreapp3.1\Lesson8.pdb
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.dll
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.pdb
+E:\unity项目\C#学习\CSharp学习教程\Lesson8\obj\Debug\netcoreapp3.1\Lesson8.genruntimeconfig.cache

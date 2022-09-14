@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+FX/wCiVTSPiLK2oZhiVE4OS4LqXdbmV1BjxZDtdkcNfQmY6yPbHWKvgawje85X2Rk2SmOvOtmVZX2tPMmlDqw==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson3_变量本质\\Lesson3_变量本质.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

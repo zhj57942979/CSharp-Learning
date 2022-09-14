@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZ6mZYF12QXFnWsW1tstc9Dq/jrU70S6icFbKMSskioARFAezB87Z7GOqBQXARmmsW7m7oPMHSxevgoKv7oMFg==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson20_for语句\\Lesson20_for语句.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

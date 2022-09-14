@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K9778waDni3NLU1miuZBEOGwTa5M4rCwUkn+JuAiy4LTsK/pT3Mpi+PtUfeqkTyPIBSqkUGXoj14Qq06cRDp6w==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\测试项目\\测试项目.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

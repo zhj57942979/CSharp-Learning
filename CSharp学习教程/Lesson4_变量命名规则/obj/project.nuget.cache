@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zu6rhjPW/WhdgBkWil7VwJzIMW5qqfPbZVqUAdpCjKos2vxZoEY6jdl6spqR55L5q/gIdbDaUVZqOGK8+63ARA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson4_变量命名规则\\Lesson4_变量命名规则.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

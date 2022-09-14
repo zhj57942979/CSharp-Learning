@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "isXTC12/eCEyG+C5gyv0xWsV1Cdz9sbGiSIKXDUVGptN/61TcAxsLNNfUejoHU//ZgSdRiifN1X5pIs6LCRlIQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson15_三目运算符\\Lesson15_三目运算符.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

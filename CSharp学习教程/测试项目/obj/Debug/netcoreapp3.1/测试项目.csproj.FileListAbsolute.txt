@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.exe
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.deps.json
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.runtimeconfig.json
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.dll
+E:\unity项目\C#学习\CSharp学习教程\测试项目\bin\Debug\netcoreapp3.1\测试项目.pdb
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.csproj.AssemblyReference.cache
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.dll
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.pdb
+E:\unity项目\C#学习\CSharp学习教程\测试项目\obj\Debug\netcoreapp3.1\测试项目.genruntimeconfig.cache

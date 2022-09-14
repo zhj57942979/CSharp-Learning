@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2rAMPj+umUHAzlMHjMXmybMqtxojiqEFWis/eym10Q1143jOXrpjYQlzoQu1wXBA6UZ1lOeG377PCIL2btqAYQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson10_算术运算符\\Lesson10_算术运算符.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

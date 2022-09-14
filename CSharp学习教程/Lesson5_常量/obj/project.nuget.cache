@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXlxIojhG4NnXhZQ5a7ITS0S+Gtc41TwIuEdT0A5Ui47x5a3iCa8H1KQbNXnjRDqubu0DEcpjAZH2r/dj2DOgA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson5_常量\\Lesson5_常量.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

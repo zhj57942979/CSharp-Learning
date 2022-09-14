@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nTvLEHdMXAuvcbCEKE75qntafLUGVClOo5nPCGCNN6iH2D2O2VQKr40G3/GwUC+HtxwulGdllqy0POyrysHXkg==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson19_do while语句\\Lesson19_do while语句.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

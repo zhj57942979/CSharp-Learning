@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1SChmi94bMZHTsC06xib77Bgp/sP+Rz4LCZdt5yO13NJDvVKm9K6jPFUl4CATHya3cV0Vz9iCCqrKPbw4tLmw==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson17_switch语句\\Lesson17_switch语句.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

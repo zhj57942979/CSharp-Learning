@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhjcMKh1QWY3arnyYTE/sG31xvGCkHJ0Xaz8Q6WEsyep1NX4FIlM7SD4+u1zlO09hKMEKdzOm3MRzSkJ4OedZQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson13_逻辑运算符\\Lesson13_逻辑运算符.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

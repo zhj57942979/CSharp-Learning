@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7TYMuLCHkbs7uadokTAMOzPgkOPsmRzCVVE3KZ26eLxtkj0Gn4yN3voBCFCKuuCF5DXwba17vGv1PeDMCrIvxQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson7_类型转换_隐式转换\\Lesson7_类型转换_隐式转换.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

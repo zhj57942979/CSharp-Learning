@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "syuYQXuHOwXu5BrP7jhcS5aKqohzDHSlG1No7/tmnoi/+kbbn6eKdmqdMeMmVynSWlgxTCTAVgM3Fcfi3r9YGQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp学习教程\\Lesson12_条件运算符\\Lesson12_条件运算符.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
