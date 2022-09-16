@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z8N0Zdt+nEN55tz2tZkDTDxkxCCIa3mYEHtbTkjet0yt4nRgrxQbgsJQA93te0+E7nw1g/Ty/MVXy0+W8ICikg==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson26_面向对象相关_抽象类和接口的区别\\Lesson26_面向对象相关_抽象类和接口的区别.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

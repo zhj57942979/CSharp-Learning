@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gY9ToIzriy0MmxPx5d2Nl/sns0Niq9dCHkW5VqjmS8rtSE2sr2nOxVCd9+vHxwDFwyePUT8YXkplZAtsKYxRKA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson11_封装_内部类和外部类\\Lesson11_封装_内部类和外部类.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

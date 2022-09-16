@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "32KctZ2Zf9ZZ5h301T67kKeXC7BzMCE3Dxk1p8ZOfaDxgRiCv1XmZeroV/9d7GK+atSHxTTvjHp+E5B1XF2E5Q==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson21_面向对象相关_命名空间\\Lesson21_面向对象相关_命名空间.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

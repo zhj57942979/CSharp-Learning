@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkDmGIv9xCzvDnBgOd/jewcA98+DerVCYDK9W/DGG3R8x/Ow8jqNFl0RuTAVa02/ErZdo8mviKog0jttsWtIlA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson16_继承_密封类\\Lesson16_继承_密封类.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

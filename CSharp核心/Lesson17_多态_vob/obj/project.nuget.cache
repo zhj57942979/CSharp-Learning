@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvE0rZr1gzwSYA280gBw7Jr+9Wg3p99kdZDzfASwptF4Rw1NNXfDx9J7J4wydxPmaS18pGyVWg8Tc6g8OOLjHQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson17_多态_vob\\Lesson17_多态_vob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

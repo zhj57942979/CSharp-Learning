@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4xXMFqNzASxngiNAsT9sN2qUeNIxghCHU6lEWAeBC2UDDFBniGCROSLoS30bt5rEGkqjviGdnVhR799XuUSrVg==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson7_封装_索引器\\Lesson6_封装_索引器.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

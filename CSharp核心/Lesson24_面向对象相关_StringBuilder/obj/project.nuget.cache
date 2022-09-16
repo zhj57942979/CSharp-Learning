@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9suSgy6CEKy41RKqrZJqXHM+I8RHXP3chI7LWpa4bLgEpJc1bmZllYhaUN80w4LpORRrt27j9ib6lIWiPuUoJA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson24_面向对象相关_StringBuilder\\Lesson24_面向对象相关_StringBuilder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

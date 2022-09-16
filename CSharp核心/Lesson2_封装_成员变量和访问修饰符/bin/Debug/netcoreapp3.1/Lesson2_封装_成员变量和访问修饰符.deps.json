@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson2_封装_成员变量和访问修饰符/1.0.0": {
+        "runtime": {
+          "Lesson2_封装_成员变量和访问修饰符.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson2_封装_成员变量和访问修饰符/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

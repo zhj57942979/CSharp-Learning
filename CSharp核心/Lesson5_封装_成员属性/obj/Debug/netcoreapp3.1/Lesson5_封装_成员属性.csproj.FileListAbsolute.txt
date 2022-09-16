@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.exe
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.deps.json
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.runtimeconfig.json
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.dll
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\bin\Debug\netcoreapp3.1\Lesson5_封装_成员属性.pdb
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.csproj.AssemblyReference.cache
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.dll
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.pdb
+E:\unity项目\C#学习\CSharp核心\Lesson5_封装_成员属性\obj\Debug\netcoreapp3.1\Lesson5_封装_成员属性.genruntimeconfig.cache

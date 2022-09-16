@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsX7PJ/HWQY17uFZBrIfObgkwQh84QnFEo/9BDxTxyX17WWRrm5b3tyGSUz+9FuPbmWKObpH1YaNK2/NZBVxaw==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson20_多态_密封态\\Lesson20_多态_密封方法.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

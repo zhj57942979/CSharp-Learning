@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "29HTZRYgn8hAE/OUSyjFbTKD23vJwjiVz7lP3748n1wOxGfFNcmUn9WnKuAygrTsBVEtpbTG/4jjASlIJpfqUw==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson14_继承_继承的构造函数\\Lesson14_继承_继承的构造函数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

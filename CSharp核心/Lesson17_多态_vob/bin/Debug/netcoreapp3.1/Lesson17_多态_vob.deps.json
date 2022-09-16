@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson17_多态_vob/1.0.0": {
+        "runtime": {
+          "Lesson17_多态_vob.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson17_多态_vob/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

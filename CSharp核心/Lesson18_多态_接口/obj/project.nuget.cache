@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkufamyDtEkIpCLbFQ0y5l36EoOwZRhk0h5/fB/ENNpW6qQ8qRuwRTRZf9okBx0nxQpHVY+lezNYagGX1kdnOQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp核心\\Lesson18_多态_接口\\Lesson19_多态_接口.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

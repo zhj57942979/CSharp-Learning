@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson10_封装_运算符重载/1.0.0": {
+        "runtime": {
+          "Lesson10_封装_运算符重载.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson10_封装_运算符重载/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
