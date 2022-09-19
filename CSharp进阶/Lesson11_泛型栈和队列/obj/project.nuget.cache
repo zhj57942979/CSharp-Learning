@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CsNKpZpnkXZA1xtg+RXVCK763SxcMESDAZSU84aznLi2o4NYI8+P+I08NbbjbAInQl9XfSs9PBjf0BCMrR1SQw==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson11_泛型栈和队列\\Lesson11_泛型栈和队列.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson6_泛型约束/1.0.0": {
+        "runtime": {
+          "Lesson6_泛型约束.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson6_泛型约束/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

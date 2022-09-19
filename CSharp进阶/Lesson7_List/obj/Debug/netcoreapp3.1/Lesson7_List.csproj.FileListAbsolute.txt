@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.exe
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.deps.json
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.runtimeconfig.json
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.dll
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\bin\Debug\netcoreapp3.1\Lesson7_List.pdb
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.csproj.AssemblyReference.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.dll
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.pdb
+E:\unity项目\C#学习\CSharp进阶\Lesson7_List\obj\Debug\netcoreapp3.1\Lesson7_List.genruntimeconfig.cache

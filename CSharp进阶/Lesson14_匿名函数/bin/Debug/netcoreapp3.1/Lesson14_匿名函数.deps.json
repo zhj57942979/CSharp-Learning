@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lesson14_匿名函数/1.0.0": {
+        "runtime": {
+          "Lesson14_匿名函数.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson14_匿名函数/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

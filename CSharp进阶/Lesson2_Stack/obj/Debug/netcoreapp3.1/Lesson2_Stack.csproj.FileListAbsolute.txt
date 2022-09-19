@@ -1,0 +1,14 @@
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.exe
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.deps.json
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.runtimeconfig.json
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.runtimeconfig.dev.json
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.dll
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\bin\Debug\netcoreapp3.1\Lesson2_Stack.pdb
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.csproj.AssemblyReference.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.AssemblyInfoInputs.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.AssemblyInfo.cs
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.csproj.CoreCompileInputs.cache
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.dll
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.pdb
+E:\unity项目\C#学习\CSharp进阶\Lesson2_Stack\obj\Debug\netcoreapp3.1\Lesson2_Stack.genruntimeconfig.cache

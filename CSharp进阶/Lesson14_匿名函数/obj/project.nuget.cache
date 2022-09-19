@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqfTFjcSTs6+Ahcys4et5iB3tAEuR6eTzxq/N/DBIdX5PHHKSmtck34Jo/3dj2a7zYmZRmjUVvAZETMKbTxKxQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson14_匿名函数\\Lesson14_匿名函数.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
