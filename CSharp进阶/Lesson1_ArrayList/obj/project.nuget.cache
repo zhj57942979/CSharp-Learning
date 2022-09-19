@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bDL5RGGlHLmEPrQ65r2Kj9d2ScuPmwzutP7QThfenjEfZj0pU/0NYmVJBXe746wjeECoC84mhJZg80u5rQSL9w==",
+  "dgSpecHash": "VYmTsdVSbyNXD5rwpbFNtCot91i20iVO2b4Xq6TGXluuCHqGeZDuJrCHsT4VGjjR8MQTNX0TT4pM8FA5vAVPGA==",
   "success": true,
-  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

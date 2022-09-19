@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PzxbPjThAnhggH7AEnSR7rSX8Z/cYpCRuMnz+TZnQUekT/G7GutM4sjvins5QhZhkQDXTKDryPFQe97Kc9DrJw==",
+  "dgSpecHash": "Uk5VGueKC66+5VT1fFGDD2/TTG0d28880JIWRUmin/X8EjQpcuDoJapu90Z9TjW1HAYYqDREj9ryGNSIAQ9Q8Q==",
   "success": true,
-  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson5_泛型\\Lesson5_泛型.csproj",
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson5_泛型\\Lesson5_泛型.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

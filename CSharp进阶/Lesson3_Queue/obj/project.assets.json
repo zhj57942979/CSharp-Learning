@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson3_Queue\\Lesson3_Queue.csproj",
+      "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson3_Queue\\Lesson3_Queue.csproj",
       "projectName": "Lesson3_Queue",
-      "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson3_Queue\\Lesson3_Queue.csproj",
+      "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson3_Queue\\Lesson3_Queue.csproj",
       "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-      "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson3_Queue\\obj\\",
+      "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson3_Queue\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

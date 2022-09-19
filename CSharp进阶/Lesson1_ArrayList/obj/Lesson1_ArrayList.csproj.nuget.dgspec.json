@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj": {}
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj": {}
   },
   "projects": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj": {
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
+        "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
         "projectName": "Lesson1_ArrayList",
-        "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
+        "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\Lesson1_ArrayList.csproj",
         "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-        "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson1_ArrayList\\obj\\",
+        "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson1_ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

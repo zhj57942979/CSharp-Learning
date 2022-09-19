@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kw//tElGNLywAfLm/6uUGiJfFCemax76ZseoPSxs6frIDk/tiwFCwQBhsBckeeh+ELOVas8ZxnBn33DgUn64Pw==",
+  "dgSpecHash": "CJFqn9lGwocVkE7dxXhNCVTbUktPZZCuFT9jkIyJLFfpkj+OMwOKhtfVSVSrKmEMv6XaaUwj9KwJY10dKlXgKA==",
   "success": true,
-  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson8_Dictionay\\Lesson8_Dictionay.csproj",
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson8_Dictionay\\Lesson8_Dictionay.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

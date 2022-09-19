@@ -29,9 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson12_委托", "Lesson12
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson13_事件", "Lesson13_事件\Lesson13_事件.csproj", "{A37BB22D-7CB2-4389-8CDA-89A93E86D672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson14_匿名函数", "Lesson14_匿名函数\Lesson14_匿名函数.csproj", "{985C6705-E459-42E9-9253-FDEA15F5C341}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson14_匿名函数", "Lesson14_匿名函数\Lesson14_匿名函数.csproj", "{985C6705-E459-42E9-9253-FDEA15F5C341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson15_Lambad表达式", "Lesson15_Lambad表达式\Lesson15_Lambad表达式.csproj", "{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson15_Lambad表达式", "Lesson15_Lambad表达式\Lesson15_Lambad表达式.csproj", "{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16_List排序", "Lesson16_List排序\Lesson16_List排序.csproj", "{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +101,10 @@ Global
 		{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

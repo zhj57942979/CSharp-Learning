@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SK01CnF8uOdaT1SbZjdfFbow7vCpGugHC9yeGj76XO1YVm7P8gvuiweF/amq+kxNWibZsduKVg+XEKql4OrhbQ==",
+  "dgSpecHash": "i6cSuVH5zUWcsuoEKlmbK2oqk5Sp12vMKWHgMDDovoB93n7FmTF2izB6FiT6eA1c/Q+xbTfNXSuho0vJzO/YxA==",
   "success": true,
-  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson12_委托\\Lesson12_委托.csproj",
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson12_委托\\Lesson12_委托.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

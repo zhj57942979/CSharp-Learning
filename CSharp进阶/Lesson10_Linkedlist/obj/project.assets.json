@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson10_Linkedlist\\Lesson10_Linkedlist.csproj",
+      "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson10_Linkedlist\\Lesson10_Linkedlist.csproj",
       "projectName": "Lesson10_Linkedlist",
-      "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson10_Linkedlist\\Lesson10_Linkedlist.csproj",
+      "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson10_Linkedlist\\Lesson10_Linkedlist.csproj",
       "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-      "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson10_Linkedlist\\obj\\",
+      "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson10_Linkedlist\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

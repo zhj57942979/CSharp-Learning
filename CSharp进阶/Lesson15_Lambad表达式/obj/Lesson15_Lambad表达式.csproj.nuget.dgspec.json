@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj": {}
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj": {}
   },
   "projects": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj": {
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj",
+        "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj",
         "projectName": "Lesson15_Lambad表达式",
-        "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj",
+        "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson15_Lambad表达式\\Lesson15_Lambad表达式.csproj",
         "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-        "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson15_Lambad表达式\\obj\\",
+        "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson15_Lambad表达式\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

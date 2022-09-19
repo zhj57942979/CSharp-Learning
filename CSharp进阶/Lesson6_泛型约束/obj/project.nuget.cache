@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzbjgmsr0LrJMzp4bMejcGT21R9YTN6R4ho6mIh5zhKMjkxq31Fy1U4EppOfPL4sz1bpTI+PbbMH7aSk1n0BOA==",
+  "dgSpecHash": "O4wLbAguSzDe9FFgt9El5Ir/gx9YhkBEtzxqLYvsBdqBv4oGYMuduYKtsUSzvFJxIbEsjG7S3k9yuzKe6R+TGQ==",
   "success": true,
-  "projectFilePath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],

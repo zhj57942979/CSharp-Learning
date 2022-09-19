@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
+      "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
       "projectName": "Lesson6_泛型约束",
-      "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
+      "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson6_泛型约束\\Lesson6_泛型约束.csproj",
       "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-      "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson6_泛型约束\\obj\\",
+      "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson6_泛型约束\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

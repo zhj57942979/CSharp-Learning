@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson4_Hashtable\\Lesson4_Hashtable.csproj",
+      "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson4_Hashtable\\Lesson4_Hashtable.csproj",
       "projectName": "Lesson4_Hashtable",
-      "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson4_Hashtable\\Lesson4_Hashtable.csproj",
+      "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson4_Hashtable\\Lesson4_Hashtable.csproj",
       "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-      "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson4_Hashtable\\obj\\",
+      "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson4_Hashtable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

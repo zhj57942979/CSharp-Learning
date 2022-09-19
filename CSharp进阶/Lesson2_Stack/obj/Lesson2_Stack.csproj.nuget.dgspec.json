@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj": {}
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj": {}
   },
   "projects": {
-    "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj": {
+    "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj",
+        "projectUniqueName": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj",
         "projectName": "Lesson2_Stack",
-        "projectPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj",
+        "projectPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson2_Stack\\Lesson2_Stack.csproj",
         "packagesPath": "C:\\Users\\AS\\.nuget\\packages\\",
-        "outputPath": "E:\\unity项目\\C#学习\\CSharp进阶\\Lesson2_Stack\\obj\\",
+        "outputPath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson2_Stack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
