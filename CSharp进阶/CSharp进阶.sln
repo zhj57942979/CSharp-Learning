@@ -33,7 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson14_匿名函数", "Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson15_Lambad表达式", "Lesson15_Lambad表达式\Lesson15_Lambad表达式.csproj", "{F62E9ED7-17C4-4CE8-8556-F0071FBB255D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson16_List排序", "Lesson16_List排序\Lesson16_List排序.csproj", "{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lesson16_List排序", "Lesson16_List排序\Lesson16_List排序.csproj", "{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson17_协变逆变", "Lesson17_协变逆变\Lesson17_协变逆变.csproj", "{40A560FF-14CA-4368-B28E-5A024A51596F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson18_多线程", "Lesson18_多线程\Lesson18_多线程.csproj", "{59C39E80-246D-4752-8415-125BF133B44C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +109,14 @@ Global
 		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C49CA79-86D0-4A1D-A175-0CFF829C3BEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40A560FF-14CA-4368-B28E-5A024A51596F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A560FF-14CA-4368-B28E-5A024A51596F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A560FF-14CA-4368-B28E-5A024A51596F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A560FF-14CA-4368-B28E-5A024A51596F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59C39E80-246D-4752-8415-125BF133B44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59C39E80-246D-4752-8415-125BF133B44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59C39E80-246D-4752-8415-125BF133B44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59C39E80-246D-4752-8415-125BF133B44C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

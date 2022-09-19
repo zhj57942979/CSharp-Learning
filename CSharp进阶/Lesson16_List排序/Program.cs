@@ -100,8 +100,34 @@ namespace Lesson16_List排序
             shopItems.Add(new ShopItem(3));
             shopItems.Add(new ShopItem(5));
             shopItems.Add(new ShopItem(6));
+
             //排序
-            shopItems.Sort(SortShopItem);
+            //shopItems.Sort(SortShopItem);
+
+            //匿名函数降序
+            //shopItems.Sort(delegate (ShopItem a, ShopItem b)
+            //{
+            //    if (a.id > b.id)
+            //    {
+            //        return 1;
+            //    }
+            //    else
+            //    {
+            //        return -1;
+            //    }
+            //});
+
+            //lambad表达式+三目运算符
+            shopItems.Sort((a, b) =>
+            {
+                return a.id > b.id ? 1 : -1;
+            });
+
+            Console.WriteLine("*******************");
+            for (int i = 0; i < shopItems.Count; i++)
+            {
+                Console.WriteLine(shopItems[i].id);
+            }
             #endregion
         }
 
@@ -120,4 +146,10 @@ namespace Lesson16_List排序
             }
         }
     }
+
+    //总结
+    //系统自带的变量(int, float, doule...) 一般可以直接Sort
+    //自定义类Sort有两种方式
+    //1 继承接口
+    //2 在Sort中传入委托函数
 }

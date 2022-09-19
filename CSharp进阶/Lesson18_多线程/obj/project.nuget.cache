@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LfAh6QsP9I3c8RmcN8lCgJudOrp2ZnJ1LHGIMJYFT+JP+bEsh4HoRDfWbIEcVP8GwavNgmfAT9rauiKpoePGXQ==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson18_多线程\\Lesson18_多线程.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
