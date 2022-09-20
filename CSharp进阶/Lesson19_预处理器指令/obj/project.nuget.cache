@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Et+kApxOQRkG6uQ79qtDhy1ycZy85lNlqRcNIf8L16F2e5kUSTH6igGria7QxYpndXSPXRJ4Wyy3dQW49e78fA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson19_预处理器指令\\Lesson19_预处理器指令.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
