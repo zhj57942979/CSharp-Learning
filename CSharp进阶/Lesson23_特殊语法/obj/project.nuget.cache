@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RgqMRZxWj075RG/KoGEOvwIqqBsBHwN9fn15fWBBc/kq8v4Y8dYUoSvB8+KT7mFMMaigtDAGnoxyym0aoD8tgA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson23_特殊语法\\Lesson23_特殊语法.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

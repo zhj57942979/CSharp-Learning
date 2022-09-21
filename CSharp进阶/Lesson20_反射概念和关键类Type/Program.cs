@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Reflection;
+using System.Threading;
 
 namespace Lesson20_反射概念和关键类Type
 {
@@ -143,21 +144,167 @@ namespace Lesson20_反射概念和关键类Type
             //执行无参构造 无参构造 没有参数 传null
             Test obj = info.Invoke(null) as Test;
             Console.WriteLine(obj.j);
-            //  2-2得到无参构造
 
+            //  2-2得到无参构造
+            ConstructorInfo info2 = t.GetConstructor(new Type[] { typeof(int)});
+            obj = info2.Invoke(new object[] { 2 }) as Test;
+            Console.WriteLine(obj.str);
+
+            ConstructorInfo info3 = t.GetConstructor(new Type[] {typeof(int),typeof(string) });
+            obj = info3.Invoke(new object[] { 4, "12345" }) as Test;
+            Console.Write(obj.str);
+            #endregion
+
+            #region 获取类的公共成员变量
+            //1 得到所有成员变量
+            FieldInfo[] fieldInfos = t.GetFields();
+            for (int i = 0; i < fieldInfos.Length; i++)
+            {
+                Console.WriteLine(fieldInfos[i]);
+            }
+            //2 得到指定名称的公共成员变量
+            FieldInfo InfoJ = t.GetField("j");
+            Console.WriteLine(InfoJ);
+
+            //3 通过反射获取和设置对象的值
+            Test test = new Test();
+            test.j = 99;
+            test.str = "22222";
+
+            //  3-1通过反射 获取对象的某个变量的值
+            Console.WriteLine(InfoJ.GetValue(test));
+            //  3-2通过反射 设置指定对象的某个变量的值
+            InfoJ.SetValue(test, 100);
+            Console.WriteLine(InfoJ.GetValue(test));
+
+            #endregion
+
+            #region 获取类的公共成员方法
+            //通过Type类中的 GetMethod方法 得到类中的方法
+            //MethodInfo 是方法的反射信息
+            Type strType = typeof(string);
+
+            //1 如果存在方法重载 用Type数组表示参数类型
+            MethodInfo[] methods = strType.GetMethods();
+            for (int i = 0; i < methods.Length; i++)
+            {
+                Console.WriteLine(methods[i]);
+            }
+
+            MethodInfo subStr = strType.GetMethod("Substring",new Type[] {typeof(int),typeof(int)});
+
+            //2 调用该方法
+            //注意 如果是静态方法 Invoke中的第一个参数传null即可
+            string str = "Hello,World!";
+            //第一个参数 相当于 是哪个对象要执行这个成员方法
+            object result = subStr.Invoke(str, new object[] { 7 , 5 });
+            Console.WriteLine(result);
+
+            #endregion
+
+            #region 其他
+            //Type;
+            //得枚举
+            //GetEnumName
+            //GetEnumNames
+
+            //得事件
+            //GetEvent
+            //GetEvents
+
+            //得接口
+            //GetInterface
+            //GetInterfaces
+
+            //得属性
+            //GetProperty
+            //GetPropertys
+            //等等
             #endregion
 
             #endregion
 
             #region Assembly
+            //程序集类
+            //主要用来加载其他程序集 加载后
+            //才能用Type来使用其他程序集中的信息
+            //如果想要使用不是自己程序集中的内容 需要先加载程序集
+            //比如 dll文件(库文件)
+            //简单的把库文件看成一种代码仓库 它提供给使用者一些可以直接拿来用的变量 函数或类
+
+            //三种加载程序集的函数
+            //一般用来加载在同一文件下的其他程序集
+            //Assembly assembly2 = Assembly.Load("程序集名称");
+
+            //一般用来加载不在同一文件下的其他程序集
+            //Assembly assembly = Assebly.LoadFrom("包含程序集清单的文件的名称或路径");
+            //Assembly assembly = Assembly.LoadFile("要加载的文件的完全限定路径");
+
+            //1 先加载一个指定程序集
+            Assembly assembly = Assembly.LoadFrom("E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson18_多线程\\bin\\Debug\\netcoreapp3.1\\Lesson18_多线程.dll");
+            Type[] types = assembly.GetTypes();
+            for (int i = 0; i < types.Length; i++)
+            {
+                Console.WriteLine(types[i]);
+            }
+            //2 再加载程序集中的一个类对象 之后才能使用反射
+            Type icon = assembly.GetType("Lesson18_多线程.Icon");
+            MemberInfo[] members = icon.GetMembers();
+            for (int i = 0; i < members.Length; i++)
+            {
+                Console.WriteLine(members[i]);
+            }
+
+            //通过反射 实例化一个 icon对象
+            //首先得到枚举Type 来得到可以传入的参数
+            Type moveDir = assembly.GetType("Lesson18_多线程.Icon");
+            //寻找枚举变量
+            FieldInfo right = moveDir.GetField("Right");
+
+            //直接实例化对象
+            object iconObj =  Activator.CreateInstance(icon, 10, 5, right.GetValue(null));
+
+            //得到对象中的方法 通过反射
+            MethodInfo move = icon.GetMethod("Move");
+            MethodInfo draw = icon.GetMethod("Draw");
+            MethodInfo clear = icon.GetMethod("Clear");
+
+            Console.Clear();
+            while (true)
+            {
+                Thread.Sleep(1000);
+                clear.Invoke(iconObj, null);
+                draw.Invoke(iconObj, null);
+                move.Invoke(iconObj, null);
+            }
+
+            //3 类库工程创建
 
             #endregion
 
-            #region Activation
+            #region Activator
+            //用于快速实例化对象的类
+            //用于将Type对象快捷实例化为对象
+            //先得到Type
+            //然后 快速实例化一个对象
+            Type testType = typeof(Test);
+            //1 无参构造
+            Test testObj = Activator.CreateInstance(testType) as Test;
+            Console.WriteLine(testObj.str);
+
+            //2 有参数构造
+            testObj = Activator.CreateInstance(testType, 99) as Test;
+            Console.WriteLine(testObj.j);
+
+            testObj = Activator.CreateInstance(testType, 55, "111222") as Test;
+            Console.WriteLine(testObj.j);
 
             #endregion
 
             #endregion
         }
     }
+
+    //反射可以得到其他程序集或者自己的程序集代码的各种信息
+    //Unity很多功能都在反射原理上建立的
 }
