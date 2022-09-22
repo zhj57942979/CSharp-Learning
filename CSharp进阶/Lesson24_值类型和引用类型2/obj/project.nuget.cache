@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFTgxfuqu0uhua2+tCwbEmeGy5uY6EUIsDPdq7lMOkRO0csMHbmi5KkLwkBqFYgEzaDcB4izeNCt276I1Y02NA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson24_值类型和引用类型2\\Lesson24_值类型和引用类型2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

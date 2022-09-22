@@ -10,8 +10,8 @@ namespace Lesson23_特殊语法
 
         public string Name
         {
-            get;
-            set;
+            get => "唐老师";
+            set => sexy = true;
         }
 
         public int Age
@@ -24,6 +24,10 @@ namespace Lesson23_特殊语法
         {
             this.money = money;
         }
+
+        public int Add(int x, int y) => x + y;
+
+        public void Speak(string str) => Console.WriteLine(str);
     }
 
 
@@ -79,22 +83,76 @@ namespace Lesson23_特殊语法
 
             #region 知识点四 匿名类型
             //var 变量可以申明为自定义的匿名类型
-
+            //无法把lambad表达式给匿名变量 只能放成员变量
+            var v = new { age = 10, money = 11, name = "小明" };
+            Console.WriteLine(v.age);
+            Console.WriteLine(v.name);
             #endregion
 
             #region 知识点五 可空类型
+            //1 值类型是不能赋值为空的
+            //int c = null;
+            //2 申明时 在值类型后面加？ 可以赋值为空
+            int? c = null;
+            c = 3;
+            //3 判断是否为空
+            if (c.HasValue)
+            {
+                Console.WriteLine("c不是空，是{0}",c);
+            }
+            //4 安全获取可空类型值
+            int? value = null;
+            //  4-1 如果为空 默认返回值类型的默认值
+            Console.WriteLine(value.GetValueOrDefault());
+            //  4-2 也可以指定一个默认值
+            Console.WriteLine(value.GetValueOrDefault(100));
+            Console.WriteLine(value);
 
+            float? f = null;
+            double? d = null;
+            //? 本质也是泛型结构体 语法糖
+            object o = null;
+            if (o != null)
+            {
+                Console.WriteLine(o.ToString());
+            }
+            //相当于是一种语法糖 能够帮助我们自动取判断o是否为空
+            //如果是null 也不回报错
+            Console.WriteLine(o?.ToString());
+
+            int[] arrayInt = null;
+            Console.WriteLine(arrayInt?[0]);
+
+            Action action = null;
+            action?.Invoke();
             #endregion
 
             #region 知识点六 空合并操作符
+            // 空合并操作符 ??
+            // 左边值 ?? 右边值
+            // 如果左边值为null 就返回右边值 否则返回左边值
+            // 只要是可以为null的类型都能用
 
+            int? intV = null;
+            int intI = intV == null ? 100 : intV.Value;
+            intI = intV ?? 100;
+            Console.WriteLine(intI);
             #endregion
 
             #region 知识点七 内插字符串
-
+            //关键符号 $
+            //用$来构造字符串 让字符串中可以拼接变量
+            string name = "唐老师";
+            int age = 18;
+            Console.WriteLine($"好好学习:{name}，年龄:{age}");
             #endregion
 
             #region 知识点八 单句逻辑简略写法
+            if (true)
+                Console.WriteLine("123321");
+            //只有一句时可以省略大括号
+            for (int j = 0; j < 5; j++)
+                Console.WriteLine(j);
 
             #endregion
 

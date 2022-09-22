@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5/8B8z9UaothGDrwC9mXFI7Mn1ByJ0jbTpxjbsx5GqxXXjs2K4UAMxmFjyBNGYLZmD09dndgfUM0ij73Cr9OFA==",
+  "success": true,
+  "projectFilePath": "E:\\unity项目\\C#学习\\C-\\CSharp进阶\\Lesson25_插入排序\\Lesson25_插入排序.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
